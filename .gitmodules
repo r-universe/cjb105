@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MPFE"]
+	path = MPFE
+	url = https://git.bioconductor.org/packages/MPFE
+	shallow = true
+	registered = true
+[submodule "polyaAeppli"]
+	path = polyaAeppli
+	url = https://github.com/cran/polyaAeppli
+	shallow = true
+	registered = true
