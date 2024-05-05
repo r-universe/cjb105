@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MPFE"]
-	path = MPFE
-	url = https://git.bioconductor.org/packages/MPFE
 [submodule "polyaAeppli"]
 	path = polyaAeppli
 	url = https://github.com/cran/polyaAeppli
